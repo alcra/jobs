@@ -1,3 +1,6 @@
+## Note: This position has been filled
+---
+
 
 We are looking for a highly skilled engineer who is comfortable with both front and back end programming. You will be responsible for developing and designing front end web architecture, ensuring the responsiveness of applications and working alongside graphic designers for web design features, among other duties.
 
