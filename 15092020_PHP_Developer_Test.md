@@ -7,7 +7,7 @@
 ---
 This is a take-home technical test. This should take a few hours. But feel free to work on it at your own pace. 
 
-**Closing Date: 24 September 2020**
+**Closing Date: 30 September 2020**
 
 ### Problem Description
 ---
